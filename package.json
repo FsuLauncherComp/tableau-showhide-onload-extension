@@ -1,0 +1,15 @@
+{
+  "name": "tableau-showhide-onload-extension",
+  "version": "1.0.0",
+  "description": "Show or Hide a Dashboard Object after N seconds once the Extension Loads",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/http-server/bin/http-server -p 8766"
+  },
+  "author": "Rody Zakovich",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
